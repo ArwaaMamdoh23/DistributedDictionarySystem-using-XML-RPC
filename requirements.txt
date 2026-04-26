@@ -1,0 +1,5 @@
+# Distributed Dictionary System - Requirements
+
+# Built-in Python libraries used (no external installs needed):
+xmlrpc.server
+xmlrpc.client
